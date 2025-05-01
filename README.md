@@ -4,7 +4,7 @@ This repository implements the Tetris game in Python using a text-based interfac
 
 ## How to Play?
 
-The game board has a fixed size (20 rows x 10 columns). A random Tetris piece (tetromino) will appear at the top of the board. Your task is to control its movement and fit it into place to complete horizontal lines.
+The game board has a fixed size (15 rows x 10 columns). A random Tetris piece (tetromino) will appear at the top of the board. Your task is to control its movement and fit it into place to complete horizontal lines.
 
 When a horizontal line is filled with blocks, it disappears and you earn space. If a piece reaches the top of the board and cannot spawn, the game will end.
 
